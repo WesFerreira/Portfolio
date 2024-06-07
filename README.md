@@ -12,6 +12,9 @@ Meu nome é Wesley Ferreira da Silva, tenho 28 anos e sou graduando do 6º semes
 ## Projeto 1: 2º Semestre de 2021
 ### Empresa Parceira: FATEC (PROJETO INTERNO)
 
+<p align="center">
+<img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/fatec.png?raw=true" widht="40" height="100">
+</p>
 
 ## Descrição do projeto
 O projeto proposto pela facudade, visa analisar os dados oficiais da COVID-19 no Estado de São Paulo e apresentá-los de maneira clara e contextualizada aos usuários, por meio de visualizações gráficas e/ou não-gráficas. A solução desenvolvida foi um sistema desktop em Python, utilizando os arquivos CSV disponibilizados pelo governo contendo dados estatísticos da COVID, permitia aos usuários visualizar gráficos informativos que apresentavam estatísticas detalhadas sobre o vírus.
@@ -151,6 +154,10 @@ Python foi a escolha predominante para o desenvolvimento da aplicação devido �
 
   ### Empresa Parceira: DOM ROCK
 
+<p align="center">
+<img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/domRock.png?raw=true" widht="40" height="100">
+</p>
+
 ## Descrição do projeto
 O projeto em questão almeja criar uma plataforma robusta para ativação e gestão de clientes, focalizada na otimização do uso dos recursos oferecidos pela empresa. Essa iniciativa visa integrar telas de cadastro que alimentam um banco de dados central, armazenando informações cruciais para a personalização e ativação dos clientes na plataforma Dom Rock. A estratégia concentra-se na entrada precisa de dados, considerando parâmetros específicos de cada cliente para alocar os recursos de forma eficiente.
 
@@ -181,6 +188,10 @@ Utilizamos o PostgreSQL como banco de dados para alocar e gerenciar todos os dad
   Segue descrição do projeto realizado para a IACIT no 3º Semestre da faculdade.
 
   ### Empresa Parceira: IACIT Soluções tecnológicas S.A.
+
+<p align="center">
+<img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/iacit.png?raw=true" widht="40" height="100">
+</p>
 
 ## Descrição do projeto
 Foi proposto o desenvolvimento de um sistema que atenda aos seguintes requisitos funcionais: cadastro de estações, cadastro de estados e regiões, importação de dados meteorológicos de arquivos CSV fornecidos pela empresa IACIT e geração de relatórios. Além disso, o sistema precisa ser uma aplicação web com interface amigável, implementada em linguagem Java e utilizar um banco de dados relacional.
@@ -344,6 +355,10 @@ A arquitetura desse código é relativamente simples, fazendo uso de bibliotecas
 
   ### Empresa Parceira: EMBRAER
 
+<p align="center">
+<img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/embraer.png?raw=true" widht="100" height="200">
+</p>
+
 ## Descrição do projeto
 
 ## Técnologias usadas
@@ -360,7 +375,19 @@ O Vue.js é reconhecido como um framework progressivo de código aberto para o d
 ### Oracle Cloud
 Para o armazenamento de dados, nossa escolha recaiu sobre o Oracle Autonomous Database, um banco de dados relacional baseado na nuvem. Optamos por esse sistema devido à sua capacidade de ser acessado pela internet, o que proporcionou uma acessibilidade, praticidade e flexibilidade excepcionais para consulta dos dados. Além disso, sua robusta estrutura ofereceu um nível elevado de segurança, não apenas controlando o acesso ao banco, mas também garantindo a consistência dos dados por meio de backups automáticos, mitigando perdas e simplificando a recuperação em casos de falhas operacionais.
 
+
 ## Contribuições pessoais
 
 
 ## Aprendizado efetivo
+
+
+
+<p align="center">
+<img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/oracle.png?raw=true" widht="10" height="30">
+</p>
+
+
+<p align="center">
+<img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/imagemGeosistema.png?raw=true" widht="80" height="150">
+</p>
