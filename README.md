@@ -9,15 +9,12 @@ Meu nome é Wesley Ferreira da Silva, tenho 28 anos e sou graduando do 6º semes
 <img src="https://avatars.githubusercontent.com/u/88842443?v=4" widht="203" height="250">
 </p>
 
-<summary> Projeto 1º Semestre </summary>
+## Projeto 1: 2º Semestre de 2021
+### Empresa Parceira: FATEC (PROJETO INTERNO)
 
-  ## Introdução
-  Segue descrição do projeto realizado para a FATEC no 1º Semestre da faculdade.
-
-  ### Empresa Parceira: FATEC (PROJETO INTERNO)
 
 ## Descrição do projeto
-O projeto proposto pela facudade, visa analisar os dados oficiais da COVID-19 no Estado de São Paulo e apresentá-los de maneira clara e contextualizada aos usuários, por meio de visualizações gráficas e/ou não-gráficas.
+O projeto proposto pela facudade, visa analisar os dados oficiais da COVID-19 no Estado de São Paulo e apresentá-los de maneira clara e contextualizada aos usuários, por meio de visualizações gráficas e/ou não-gráficas. A solução desenvolvida foi um sistema desktop em Python, utilizando os arquivos CSV disponibilizados pelo governo contendo dados estatísticos da COVID, permitia aos usuários visualizar gráficos informativos que apresentavam estatísticas detalhadas sobre o vírus.
 ## Técnologias usadas
 ### Python
 Python foi a escolha predominante para o desenvolvimento da aplicação devido à sua sintaxe clara, simplificada e sua vasta gama de bibliotecas e frameworks que suportam diversas áreas, incluindo análise de dados. Sua simplicidade, versatilidade e suporte facilitaram significativamente o processo de criação do projeto. Uma das bibliotecas que mais utilizamos no projeto foi a do Pandas que nos fornece ferramentas para análise e manipulação de dados, que no nosso projeto foi manipulado os dados por csv.
