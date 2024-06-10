@@ -137,20 +137,22 @@ Python foi a escolha predominante para o desenvolvimento da aplicação devido �
 </details>
 
 ## Aprendizado efetivo
-<details>
-  <summary> Programação </summary>
+
+### Hard Skills
+
+  #### Programação:
     - Desenvolvimento de aplicação desktop </br>
     - Manipulação de dados </br>
     - Gerar gráficos </br>
-</details>
+
+### Soft Skills
+
+  #### Comunicação:
+  Com o primeiro semestre totalmente online por conta da pandemia, nosso contato com professores e colegas foram um pouco mais complicado pelo fato de ser online, então tivemos que utilizar de ferramentas para se comunicar, entrando em sintonia e conseguindo entregar o desaqfio proposto
 
 
+## Projeto 2: 1º Semestre de 2022
 
-
-<summary> Projeto 2º Semestre </summary>
-
-  ## Introdução
-  Segue descrição do projeto realizado para a DOM ROCK no 2º Semestre da faculdade.
 
   ### Empresa Parceira: DOM ROCK
 
@@ -182,10 +184,7 @@ Utilizamos o PostgreSQL como banco de dados para alocar e gerenciar todos os dad
 
 
 
-<summary> Projeto 3º Semestre </summary>
-
-  ## Introdução
-  Segue descrição do projeto realizado para a IACIT no 3º Semestre da faculdade.
+## Projeto 3: 2º Semestre de 2022
 
   ### Empresa Parceira: IACIT Soluções tecnológicas S.A.
 
@@ -348,10 +347,7 @@ A arquitetura desse código é relativamente simples, fazendo uso de bibliotecas
 
 
 
-<summary> Projeto 4º Semestre </summary>
-
-   ## Introdução
-  Segue descrição do projeto realizado para a EMBRAER no 4º Semestre da faculdade.
+## Projeto 4: 1º Semestre de 2023
 
   ### Empresa Parceira: EMBRAER
 
@@ -382,10 +378,14 @@ Para o armazenamento de dados, nossa escolha recaiu sobre o Oracle Autonomous Da
 ## Aprendizado efetivo
 
 
+## Projeto 5: 2º Semestre de 2023
 
 <p align="center">
 <img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/oracle.png?raw=true" widht="10" height="30">
 </p>
+
+
+## Projeto 6: 1º Semestre de 2024
 
 
 <p align="center">
