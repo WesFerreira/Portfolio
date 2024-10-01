@@ -141,9 +141,9 @@ Python foi a escolha predominante para o desenvolvimento da aplicação devido �
 ### Hard Skills
 
   #### Programação:
-    - Desenvolvimento de aplicação desktop </br>
-    - Manipulação de dados </br>
-    - Gerar gráficos </br>
+    - Desenvolvimento de aplicação desktop 
+    - Manipulação de dados 
+    - Gerar gráficos 
 
 ### Soft Skills
 
