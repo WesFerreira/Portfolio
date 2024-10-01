@@ -357,6 +357,10 @@ A arquitetura desse código é relativamente simples, fazendo uso de bibliotecas
 
 ## Descrição do projeto
 
+O desafio foi desenvolver uma plataforma que permitisse aos usuários consultar os itens instalados nas aeronaves, além de incluir funcionalidades para verificar e editar os itens instalados ou aplicáveis a determinados "chassis", com base em uma base de dados fornecida.
+
+A solução implementada consistiu em um sistema que armazenava todas as regras de composição dos itens em um banco de dados. Ao consultar um número de chassi, o sistema recuperava as regras de composição correspondentes no banco de dados e exibia os itens compatíveis com o chassi na tela para o usuário.
+
 ## Técnologias usadas
 ### Java e Spring
 A infraestrutura de back-end da aplicação foi construída integralmente em Java, aproveitando as vantagens oferecidas pelo robusto framework Spring Boot. Esta escolha estratégica permitiu aos desenvolvedores a agilidade e praticidade necessárias para a criação de aplicativos web em Java, graças ao conjunto abrangente de ferramentas e bibliotecas disponibilizadas pelo Spring Boot.
@@ -377,6 +381,13 @@ Para o armazenamento de dados, nossa escolha recaiu sobre o Oracle Autonomous Da
 
 ## Aprendizado efetivo
 
+### HARD SKILLS 
+Vue.js: sei fazer com ajuda </br>
+Java: sei fazer com ajuda </br>
+Spring boot: sei fazer com ajuda </br>
+
+### SOFT SKILLS 
+Trabalho em equipe e comunicaçãO: A harmonia entre os membros permitiu que todos aprendessem e compartilhassem conhecimentos sobre novas tecnologias, contribuindo para o sucesso da implementação. Em particular, compartilhei conhecimentos adquiridos sobre ferramentas avançadas de banco de dados, o que ajudou a melhorar a arquitetura e o desempenho do backend, otimizando consultas e manipulações de dados. A troca de experiências e a boa comunicação garantiram que toda a equipe aproveitasse ao máximo as capacidades da base de dados, promovendo um ambiente colaborativo e eficiente, além de fortalecer nossos laços e alcançar os objetivos de forma mais eficaz.
 
 ## Projeto 5: 2º Semestre de 2023
 
