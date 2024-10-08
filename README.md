@@ -150,6 +150,11 @@ Python foi a escolha predominante para o desenvolvimento da aplicação devido �
   #### Comunicação:
   Com o primeiro semestre totalmente online por conta da pandemia, nosso contato com professores e colegas foram um pouco mais complicado pelo fato de ser online, então tivemos que utilizar de ferramentas para se comunicar, entrando em sintonia e conseguindo entregar o desaqfio proposto
 
+<br>
+
+[Projeto no GitHub](https://github.com/RenanRhoads/GRUPO-04---FATEC-BD)
+
+<br><br>
 
 ## Projeto 2: 1º Semestre de 2022
 
@@ -181,8 +186,11 @@ Utilizamos o PostgreSQL como banco de dados para alocar e gerenciar todos os dad
 
 </details>
 
+<br>
 
+[Projeto no GitHub](https://github.com/CarcaraTec/Dom-Rock)
 
+<br><br>
 
 ## Projeto 3: 2º Semestre de 2022
 
@@ -343,9 +351,11 @@ A arquitetura desse código é relativamente simples, fazendo uso de bibliotecas
     - Manipulação de variáveis com JavaScript </br>
 </details>
 
+<br>
 
+[Projeto no GitHub](https://github.com/CarcaraTec/IACIT)
 
-
+<br><br>
 
 ## Projeto 4: 1º Semestre de 2023
 
@@ -388,6 +398,12 @@ Spring boot: sei fazer com ajuda </br>
 
 ### SOFT SKILLS 
 Trabalho em equipe e comunicaçãO: A harmonia entre os membros permitiu que todos aprendessem e compartilhassem conhecimentos sobre novas tecnologias, contribuindo para o sucesso da implementação. Em particular, compartilhei conhecimentos adquiridos sobre ferramentas avançadas de banco de dados, o que ajudou a melhorar a arquitetura e o desempenho do backend, otimizando consultas e manipulações de dados. A troca de experiências e a boa comunicação garantiram que toda a equipe aproveitasse ao máximo as capacidades da base de dados, promovendo um ambiente colaborativo e eficiente, além de fortalecer nossos laços e alcançar os objetivos de forma mais eficaz.
+
+<br>
+
+[Projeto no GitHub](https://github.com/CarcaraTec/Embraer)
+
+<br><br>
 
 ## Projeto 5: 2º Semestre de 2023
 
