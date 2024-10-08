@@ -141,14 +141,14 @@ Python foi a escolha predominante para o desenvolvimento da aplicação devido �
 ### Hard Skills
 
   #### Programação:
-    - Desenvolvimento de aplicação desktop 
-    - Manipulação de dados 
-    - Gerar gráficos 
+    - Desenvolvimento de aplicação desktop: sei fazer com ajuda
+    - Manipulação de dados: sei fazer com ajuda
+    - Gerar gráficos: sei fazer com ajuda
 
 ### Soft Skills
 
   #### Comunicação:
-  Com o primeiro semestre totalmente online por conta da pandemia, nosso contato com professores e colegas foram um pouco mais complicado pelo fato de ser online, então tivemos que utilizar de ferramentas para se comunicar, entrando em sintonia e conseguindo entregar o desaqfio proposto
+  Com o primeiro semestre totalmente online por conta da pandemia, nosso contato com professores e colegas foram um pouco mais complicado pelo fato de ser online, então tivemos que utilizar de ferramentas para se comunicar, entrando em sintonia e conseguindo entregar o desafio proposto.
 
 <br>
 
@@ -184,6 +184,22 @@ Utilizamos o PostgreSQL como banco de dados para alocar e gerenciar todos os dad
 
 ## Aprendizado efetivo
 
+### Hard Skills
+
+  #### Programação:
+    - Orientação a objetos: sei fazer com ajuda
+    - Funções em Java: sei fazer com ajuda
+    - Integração com banco de dados: sei fazer com ajuda
+    - Consultas personalizadas com SQL: sei fazer com ajuda
+
+### Soft Skills
+
+  #### Aprendizado Contínuo: 
+  O estudo constante foi essencial ao me deparar pela primeira vez com Java, precisando aprender rapidamente sobre orientação a objetos e suas particularidades para aplicá-la no proposta da empresa parceira. 
+
+  #### Adaptabilidade: 
+  Trabalhando em uma equipe recém-formada, precisei me adaptar rapidamente às dinâmicas de trabalho e ao novo ambiente. A flexibilidade foi crucial para enfrentar os desafios e mudanças ao longo do projeto, o que nos permitiu manter o foco nos resultados e entregar uma solução que atendesse às expectativas do cliente de maneira ágil.
+  
 </details>
 
 <br>
