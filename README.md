@@ -427,6 +427,28 @@ Trabalho em equipe e comunicaçãO: A harmonia entre os membros permitiu que tod
 <img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/oracle.png?raw=true" widht="10" height="30">
 </p>
 
+## Descrição do projeto
+O desafio foi desenvolver uma plataforma online abrangente para a gestão eficiente de restaurantes, integrando funcionalidades como painéis de controle, gráficos, relatórios, além da administração de pessoal, fornecedores e inventário. O objetivo é ajudar os proprietários a lidar com questões críticas, como controle de custos, gestão de funcionários e estoque, visando à melhoria das operações.
+
+A solução implementada consistiu em um sistema web que consulta dados armazenados no banco de dados, realiza cálculos para gerar insights valiosos e os apresenta de forma intuitiva por meio de gráficos, tabelas e cards. A plataforma foi organizada em seções dedicadas, permitindo uma visualização clara do desempenho de funcionários, pratos, vendas e inventário, facilitando a tomada de decisões estratégicas pelos gestores.
+
+## Técnologias usadas
+### Java e Spring
+Responsável por disponibilizar uma API REST com mapeamento de rotas. Foram criados endpoints CRUD para interação com os dados de pratos, funcionários e estoque, permitindo o consumo dessas informações pelo frontend.
+
+### Vue.js
+Possibilitou a componentização dos elementos da interface, facilitando sua reutilização. As propriedades de condicional (v-if) e looping (v-for) permitiram a exibição dinâmica dos dados de maneira eficiente.
+
+### Oracle Autonomous Database
+Escolhido pela segurança do acesso via wallet e pela funcionalidade de backups automáticos. Esse sistema permitiu o consumo de dados de qualquer ambiente conectado à internet, proporcionando maior flexibilidade e segurança na gestão das informações.
+
+## Contribuições pessoais
+## Aprendizado efetivo
+
+### HARD SKILLS 
+
+### SOFT SKILLS 
+
 
 ## Projeto 6: 1º Semestre de 2024
 
@@ -434,3 +456,13 @@ Trabalho em equipe e comunicaçãO: A harmonia entre os membros permitiu que tod
 <p align="center">
 <img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/imagemGeosistema.png?raw=true" widht="80" height="150">
 </p>
+
+
+## Descrição do projeto
+## Técnologias usadas
+## Contribuições pessoais
+## Aprendizado efetivo
+
+### HARD SKILLS 
+
+### SOFT SKILLS 
