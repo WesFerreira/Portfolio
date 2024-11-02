@@ -449,6 +449,11 @@ Escolhido pela segurança do acesso via wallet e pela funcionalidade de backups 
 
 ### SOFT SKILLS 
 
+<br>
+
+[Projeto no GitHub](https://github.com/CarcaraTec/Cloud-Kitchen-Oracle)
+
+<br><br>
 
 ## Projeto 6: 1º Semestre de 2024
 
@@ -459,10 +464,37 @@ Escolhido pela segurança do acesso via wallet e pela funcionalidade de backups 
 
 
 ## Descrição do projeto
+O projeto consistiu em desenvolver uma plataforma web de inteligência artificial capaz de analisar e interpretar os sentimentos expressos por clientes em avaliações online de hotéis, proporcionando insights detalhados e contextualizados.
+
+A solução integra tecnologia de ponta em machine learning para classificar os sentimentos em categorias como neutro, positivo ou negativo, permitindo uma visão clara e abrangente sobre o desempenho dos hotéis. Os dados, armazenados em um banco de dados não relacional, são organizados e exibidos por meio de uma interface rica em funcionalidades, incluindo mapas interativos, gráficos de tendências, e filtros para cidades, datas, hotéis e características específicas dos hóspedes.
+
+Além disso, a plataforma fornece insights geograficamente contextualizados, permitindo a visualização dos dados em diferentes perspectivas e possibilitando que os gestores tomem decisões mais informadas sobre o atendimento e as necessidades dos clientes.
+
 ## Técnologias usadas
+### Java e Spring Boot
+Java e Spring Boot foram usados para desenvolver a camada de segurança e o módulo de gerenciamento de usuários, garantindo conformidade com a LGPD. Essa combinação facilitou o tratamento seguro dos dados dos usuários.
+
+### Python e Flask
+Python e Flask foram utilizados para o desenvolvimento da API back-end. Com a biblioteca scikit-learn, também foi possível treinar modelos de machine learning para a classificação de sentimentos.
+
+### MongoDB
+O MongoDB foi escolhido como banco de dados não relacional para armazenar dados de sentimentos. Sua flexibilidade de schema permitiu armazenar registros classificados e informações adicionais.
+
+### MySQL
+O MySQL, um banco de dados relacional, foi utilizado para o gerenciamento de dados de usuários e logs de acesso, garantindo a integridade dos dados e o relacionamento entre eles.
+
+### Vue.js
+Vue.js foi usado no front-end para criar dashboards e gráficos interativos. Sua capacidade de componentização simplificou o desenvolvimento de elementos visuais dinâmicos para a exibição de insights.
+
 ## Contribuições pessoais
 ## Aprendizado efetivo
 
 ### HARD SKILLS 
 
 ### SOFT SKILLS 
+
+<br>
+
+[Projeto no GitHub](https://github.com/CarcaraTec/Imagem-api6sem)
+
+<br><br>
