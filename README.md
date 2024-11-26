@@ -140,10 +140,9 @@ Python foi a escolha predominante para o desenvolvimento da aplicação devido �
 
 ### Hard Skills
 
-  #### Programação:
-    - Desenvolvimento de aplicação desktop: sei fazer com ajuda
-    - Manipulação de dados: sei fazer com ajuda
-    - Gerar gráficos: sei fazer com ajuda
+  - **Desenvolvimento de aplicação desktop**: sei fazer com ajuda
+  - **Manipulação de dados**: sei fazer com ajuda
+  - **Gerar gráficos**: sei fazer com ajuda
 
 ### Soft Skills
 
@@ -186,11 +185,10 @@ Utilizamos o PostgreSQL como banco de dados para alocar e gerenciar todos os dad
 
 ### Hard Skills
 
-  #### Programação:
-    - Orientação a objetos: sei fazer com ajuda
-    - Funções em Java: sei fazer com ajuda
-    - Integração com banco de dados: sei fazer com ajuda
-    - Consultas personalizadas com SQL: sei fazer com ajuda
+  - **Orientação a objetos**: sei fazer com ajuda
+  - **Funções em Java**: sei fazer com ajuda
+  - **Integração com banco de dados**: sei fazer com ajuda
+  - **Consultas personalizadas com SQL**: sei fazer com ajuda
 
 ### Soft Skills
 
@@ -353,21 +351,16 @@ A arquitetura desse código é relativamente simples, fazendo uso de bibliotecas
 </details>
 
 ## Aprendizado efetivo
-<details>
-  <summary> Spring </summary>
-    - Desenvolvimento de aplicações web </br>
-    - Integração com banco de dados </br>
-    - Injeção de dependências </br>
-</details>
-<details>  
-  <summary> Programação </summary>
-    - Programação orientada a objetos </br>
-    - Consumo de API Rest </br>
-    - Funções em JavaScript </br>
-    - Manipulação de variáveis com JavaScript </br>
-</details>
 
-<br>
+### HARD SKILLS 
+  - **Desenvolvimento de aplicações REST**: sei fazer com ajuda
+  - **Integração com banco de dados**: sei fazer com ajuda
+  - **Programação orientada a objetos**: sei fazer com ajuda
+  - **Consumo de API Rest**: sei fazer com ajuda
+  - **Funções em JavaScript**: sei fazer com ajuda
+  - **Manipulação de variáveis com JavaScript**: sei fazer com ajuda
+
+### SOFT SKILLS
 
 [Projeto no GitHub](https://github.com/CarcaraTec/IACIT)
 
@@ -408,12 +401,16 @@ Para o armazenamento de dados, nossa escolha recaiu sobre o Oracle Autonomous Da
 ## Aprendizado efetivo
 
 ### HARD SKILLS 
-Vue.js: sei fazer com ajuda </br>
-Java: sei fazer com ajuda </br>
-Spring boot: sei fazer com ajuda </br>
+  - **Vue.js**: sei fazer com ajuda
+  - **Java**: sei fazer com ajuda
+  - **Spring boot**: sei fazer com ajuda
 
 ### SOFT SKILLS 
-Trabalho em equipe e comunicaçãO: A harmonia entre os membros permitiu que todos aprendessem e compartilhassem conhecimentos sobre novas tecnologias, contribuindo para o sucesso da implementação. Em particular, compartilhei conhecimentos adquiridos sobre ferramentas avançadas de banco de dados, o que ajudou a melhorar a arquitetura e o desempenho do backend, otimizando consultas e manipulações de dados. A troca de experiências e a boa comunicação garantiram que toda a equipe aproveitasse ao máximo as capacidades da base de dados, promovendo um ambiente colaborativo e eficiente, além de fortalecer nossos laços e alcançar os objetivos de forma mais eficaz.
+  #### Trabalho em equipe:
+  A harmonia entre os membros permitiu que todos aprendessem e compartilhassem conhecimentos sobre novas tecnologias, contribuindo para o sucesso da implementação.
+  
+  #### Comunicação:
+  A troca de experiências e a boa comunicação foram essenciais para garantir que toda a equipe aproveitasse ao máximo as capacidades da base de dados. Isso promoveu um ambiente colaborativo e eficiente, fortaleceu os laços entre os membros e permitiu o alcance dos objetivos de forma mais eficaz.
 
 <br>
 
