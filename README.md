@@ -487,12 +487,93 @@ O MySQL, um banco de dados relacional, foi utilizado para o gerenciamento de dad
 Vue.js foi usado no front-end para criar dashboards e gráficos interativos. Sua capacidade de componentização simplificou o desenvolvimento de elementos visuais dinâmicos para a exibição de insights.
 
 ## Contribuições pessoais
+Neste projeto, assumi um papel central no desenvolvimento da parte de Security utilizando Java com framework Spring Security. 
+Sendo assim criando perfis específicos para cada funcionalidade, geração de Token uilizando JWT, validações de tokens e Criptografia de dados sensiveis
+
+<details>
+  <summary>Gerando Token</summary>
+
+```java
+    public String generateToken(User user){
+        try{
+            Algorithm algorithm = Algorithm.HMAC256(secret);
+            String token = JWT.create()
+                    .withIssuer("imagem_backend_security")
+                    .withSubject(user.getUsername())
+                    .withExpiresAt(genExpirationDate())
+                    .sign(algorithm);
+            return token;
+        } catch (JWTCreationException exception) {
+            throw new RuntimeException("Error while generating token", exception);
+        }
+    }
+    private Instant genExpirationDate(){
+        return LocalDateTime.now().plusMinutes(30).toInstant(ZoneOffset.of("-03:00"));
+    }
+```
+</details>
+
+<details>
+  <summary>Validando Token</summary>
+
+```java
+  public String validateToken(String token){
+        try {
+            Algorithm algorithm = Algorithm.HMAC256(secret);
+            return JWT.require(algorithm)
+                    .withIssuer("imagem_backend_security")
+                    .build()
+                    .verify(token)
+                    .getSubject();
+        } catch (JWTVerificationException exception){
+            return "";
+        }
+    }
+```
+</details>
+
+
+<details>
+  <summary>Criptografar e Descriptografar dados</summary>
+
+```java
+  private static final String ALGORITHM = "AES";
+    private static final String TRANSFORMATION = "AES";
+    public static String encrypt(String input, SecretKey key) throws Exception {
+        Cipher cipher = Cipher.getInstance(TRANSFORMATION);
+        cipher.init(Cipher.ENCRYPT_MODE, key);
+        byte[] encryptedBytes = cipher.doFinal(input.getBytes());
+        return Base64.getEncoder().encodeToString(encryptedBytes);
+    }
+    public static SecretKey generateKey() throws Exception {
+        KeyGenerator keyGen = KeyGenerator.getInstance(ALGORITHM);
+        keyGen.init(256);
+        return keyGen.generateKey();
+    }
+
+  public static String decrypt(String input, SecretKey key, byte[] iv) throws Exception {
+        Cipher cipher = Cipher.getInstance(TRANSFORMATION);
+        IvParameterSpec ivParameterSpec = new IvParameterSpec(iv);
+        cipher.init(Cipher.DECRYPT_MODE, key, ivParameterSpec);
+        byte[] decryptedBytes = cipher.doFinal(Base64.getDecoder().decode(input));
+        return new String(decryptedBytes);
+    }
+```
+</details>
+
 ## Aprendizado efetivo
 
 ### HARD SKILLS 
+  - Java: sei fazer com autonomia
+  - Spring: sei fazer com autonomia
+  - MySQL: sei fazer com autonomia
 
 ### SOFT SKILLS 
+  #### Responsabilidade:
+  Como único desenvolvedor responsável pelo Security, assumi o compromisso da entrega dos resultados dentro dos prazos definidos. O Security desempenhava um papel crucial na nossa aplicação definindo de o usuário é um usuário apto a utilizar a aplicação, se o mesmo tem permissão para tal ação e total confiabilidade nos dados lidando com a lei LGPD
 
+  #### Colaboração: 
+  Trabalhei em conjunto com a equipe, contribuindo com ideias, compartilhando recursos e assumindo responsabilidades para garantir o sucesso do projeto.
 <br>
 
 [Projeto no GitHub](https://github.com/CarcaraTec/Imagem-api6sem)
