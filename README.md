@@ -592,9 +592,9 @@ Sendo assim criando perfis específicos para cada funcionalidade, geração de T
 ## Aprendizado efetivo
 
 ### HARD SKILLS 
-  - Java: sei fazer com autonomia
-  - Spring: sei fazer com autonomia
-  - MySQL: sei fazer com autonomia
+  - **Java**: sei fazer com autonomia
+  - **Spring**: sei fazer com autonomia
+  - **MySQL**: sei fazer com autonomia
 
 ### SOFT SKILLS 
   #### Responsabilidade:
