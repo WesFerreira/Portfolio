@@ -362,6 +362,9 @@ A arquitetura desse código é relativamente simples, fazendo uso de bibliotecas
 
 ### SOFT SKILLS
 
+  #### Inteligência Emocional
+  Durante o trabalho em equipe, enfrentei momentos de pressão que exigiram muita inteligência emocional. Busquei manter a calma mesmo diante de prazos apertados e conflitos pontuais, evitando que as emoções interferissem nas minhas ações ou decisões. Quando percebi que algum colega estava sobrecarregado ou frustrado, procurei ser compreensivo e oferecer apoio, ajudando a aliviar o clima e fortalecer o espírito de colaboração.
+
 [Projeto no GitHub](https://github.com/CarcaraTec/IACIT)
 
 <br><br>
@@ -440,11 +443,39 @@ Possibilitou a componentização dos elementos da interface, facilitando sua reu
 Escolhido pela segurança do acesso via wallet e pela funcionalidade de backups automáticos. Esse sistema permitiu o consumo de dados de qualquer ambiente conectado à internet, proporcionando maior flexibilidade e segurança na gestão das informações.
 
 ## Contribuições pessoais
+   Como Product Owner (PO), refinei minhas habilidades em ambientes ágeis, utilizando a metodologia Scrum. Minha principal responsabilidade foi definir e comunicar as prioridades do produto, garantindo que as tarefas estivessem alinhadas com as necessidades dos clientes e objetivos do negócio. A priorização das atividades foi essencial para o sucesso do projeto, permitindo ajustes rápidos e eficazes conforme o feedback dos stakeholders.
+
+<details>
+  <summary>Entendimento das Necessidades do Cliente</summary>
+   Como Product Owner (PO), meu primeiro passo foi compreender profundamente as necessidades do cliente e os objetivos do produto. Isso envolveu uma comunicação eficaz com os stakeholders e a coleta contínua de feedback. Com uma visão clara das expectativas, conseguindo estabelecer prioridades que agregaram valor real ao cliente.
+</details>
+
+<details>
+  <summary>Gestão do Product Backlog</summary>
+O Product Backlog é uma lista ordenada de funcionalidades, requisitos e melhorias que precisaram ser implementadas no produto. Eu, junto à equipe, fomos responsável por criar, manter e priorizar esse backlog, atribuindo valor de negócio a cada item e considerando seu impacto no sucesso do produto.
+</details>
+
+<details>
+  <summary>Planejamento e Execução do Sprint</summary>
+Nas reuniões de planejamento do Sprint, colaborei com a equipe para definir as tarefas que iriam compor o Sprint Backlog. A priorização das tarefas foi baseada no Product Backlog, comigo como PO selecionando as mais importantes para o Sprint atual, enquanto a equipe discutiu detalhes e estimou o esforço necessário para sua conclusão.
+</details>
+
 ## Aprendizado efetivo
 
 ### HARD SKILLS 
+  - **Gestão de Backlog**: sei fazer com ajuda
+  - **Metodologia Ágil**: sei fazer com ajuda
+  - **Definição de Métricas**: sei fazer com ajuda
 
 ### SOFT SKILLS 
+
+  #### Comunicação Eficaz:
+  Foi de extrema importância para garantir que todos estivessem alinhados. Procurei me expressar de forma clara e objetiva, compartilhando ideias de maneira organizada e garantindo que as informações fossem compreendidas por todos. Além disso, dei espaço para que meus colegas também contribuíssem e sempre validei se as mensagens estavam sendo interpretadas corretamente. 
+
+  #### Empatia:
+  Busquei me colocar no lugar dos meus colegas para entender melhor suas perspectivas e preocupações. Houve momentos em que as opiniões divergiam, mas procurei ouvir ativamente cada ponto de vista antes de expressar o meu. Isso ajudou a criar um ambiente de confiança e respeito, onde todos se sentiram à vontade para contribuir
+
+  
 
 <br>
 
