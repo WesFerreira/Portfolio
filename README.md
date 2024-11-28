@@ -8,10 +8,15 @@ Durante a minha formação adquiri diversos conhecimentos em Hard skills e aprim
 
 Atualmente sou Desenvolvedor de Software na consultoria Mutant, atuando com tecnologias como Java, Framework Quarkus, Mensageria com RabbitMQ e banco de dados não relacional MongoDB. 
 
-
 <p align="center">
 <img src="https://avatars.githubusercontent.com/u/88842443?v=4" widht="203" height="250">
 </p>
+
+## Contatos
+
+<a href="https://www.linkedin.com/in/wesley-ferreira-405440207/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/WesFerreira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" target="_blank"></a>
+ <br>
 
 ## Projeto 1: 2º Semestre de 2021
 ### Empresa Parceira: FATEC (PROJETO INTERNO)
