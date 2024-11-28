@@ -2,7 +2,11 @@
 
 ### Introdução
 
-Meu nome é Wesley Ferreira da Silva, tenho 28 anos e sou graduando do 6º semestre de Banco de Dados pela FATEC - Prof. Jessen Vidal.
+Meu nome é Wesley Ferreira da Silva, tenho 29 anos e sou graduando do 6º semestre de Banco de Dados pela FATEC - Prof. Jessen Vidal. Ingressei na Fatec no segundo semestre de 2021, onde obtive meu primeiro contato com a programação.
+
+Durante a minha formação adquiri diversos conhecimentos em Hard skills e aprimorei diversas soft skills. Com a Aprendizagem por Projetos Integrador (API), tive a oportunidade de colocar em prática os conteúdos estudados em sala de aula quando conquistei meu primeiro trabalho na área da tecnologia na Stealth Mode, atuando com tecnologias como Java, Framework Spring, Mensageria com RabbitMQ e banco de dados DB2(IBM) .
+
+Atualmente sou Desenvolvedor de Software na consultoria Mutant, atuando com tecnologias como Java, Framework Quarkus, Mensageria com RabbitMQ e banco de dados não relacional MongoDB. 
 
 
 <p align="center">
