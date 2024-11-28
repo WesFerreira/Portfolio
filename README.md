@@ -189,6 +189,26 @@ Utilizamos o PostgreSQL como banco de dados para alocar e gerenciar todos os dad
 
 ## Contribuições pessoais
 
+<details>
+  <summary>Tela do primeiro processo do cliente</summary>
+    <p align="center">
+    <img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/01%20-%20Tela.jpg?raw=true" widht="550" height="500">
+    </p>
+</details>
+
+<details>
+  <summary>Tela do segundo processo do cliente</summary>
+    <p align="center">
+    <img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/02%20-%20Tela.jpg?raw=true" widht="550" height="500">
+    </p>
+</details>
+
+<details>
+  <summary>Tela do terceiro processo do cliente</summary>
+    <p align="center">
+    <img src="https://github.com/WesFerreira/Portfolio/blob/main/Imagem/03%20-%20Tela.jpg?raw=true" widht="550" height="500">
+    </p>
+</details>
 
 ## Aprendizado efetivo
 
