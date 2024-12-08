@@ -753,7 +753,7 @@ Sendo assim criando perfis específicos para cada funcionalidade, geração de T
 
 ### SOFT SKILLS 
   #### Responsabilidade:
-  Como único desenvolvedor responsável pelo Security, assumi o compromisso da entrega dos resultados dentro dos prazos definidos. O Security desempenhava um papel crucial na nossa aplicação definindo de o usuário é um usuário apto a utilizar a aplicação, se o mesmo tem permissão para tal ação e total confiabilidade nos dados lidando com a lei LGPD
+  Como desenvolvedor responsável pelo Security, assumi o compromisso da entrega dos resultados dentro dos prazos definidos. O Security desempenhava um papel crucial na nossa aplicação definindo de o usuário é um usuário apto a utilizar a aplicação, se o mesmo tem permissão para tal ação e total confiabilidade nos dados lidando com a lei LGPD
 
   #### Colaboração: 
   Trabalhei em conjunto com a equipe, contribuindo com ideias, compartilhando recursos e assumindo responsabilidades para garantir o sucesso do projeto.
